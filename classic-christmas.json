@@ -1,0 +1,10 @@
+{
+  "name": "Classic Christmas - Static",
+  "colors": [
+    {"name": "Red", "hex": "FE0800"},
+    {"name": "Blue", "hex": "007DFE"},
+    {"name": "Green", "hex": "00D03C"},
+    {"name": "Amber", "hex": "FE9800"},
+    {"name": "Pink", "hex": "FE0050"}
+  ]
+}
